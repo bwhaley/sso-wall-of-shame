@@ -129,6 +129,14 @@
   pricing_source: https://slack.com/pricing
   updated_at: 2018-10-17
 
+- name: Snyk
+  url: https://snyk.io
+  base_pricing: $29.96 per u/m (25 user min)
+  sso_pricing: $39.98 per u/m  (50 user min)
+  percent_increase: 33%
+  pricing_source: https://snyk.io/plans
+  updated_at: 2018-10-22
+
 - name: SumoLogic
   url: https://www.sumologic.com
   base_pricing: $90 per GB/m
@@ -160,3 +168,11 @@
   percent_increase:  157%
   pricing_source: https://www.zendesk.com/support/compare/
   updated_at: 2018-10-19
+  
+- name: Zoom
+  url: https://www.zoom.us
+  base_pricing: $14.99 per month/host
+  sso_pricing: $19.99 per month/host
+  percent_increase: 33%
+  pricing_source: https://www.zoom.us/pricing
+  updated_at: 2018-10-22
